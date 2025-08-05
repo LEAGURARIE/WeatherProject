@@ -94,7 +94,7 @@ Kiryat Gat
 You can easily extend the list by editing utills.py.
 
 8. Example Output
-- Interactive map view centered on the selected city with a red location marker.
+Interactive map view centered on the selected city with a red location marker.
 Current Weather Metrics:
 🌡️ Temperature in °C, including the delta change compared to yesterday’s temperature if available.
 🌬️ Wind Speed in meters per second (m/s).

@@ -56,11 +56,4 @@ def filter_cities(query, city_list):
     return exact_matches + starts_with + contains
 
 
-#def get_english_city_name(selected_city_display, lang):
- #   """Convert selected city to English name for API calls"""
- #   if lang == "English":
-  #      return selected_city_display
-  #  else:
-  #      return cities_hebrew.get(selected_city_display, selected_city_display)
-
 
