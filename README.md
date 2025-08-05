@@ -112,6 +112,7 @@ Current Weather Metrics:
 - The app currently excludes minutely, hourly, and alert data for faster response.
 
 
-
+## App URL
+https://weatherproject-zd4rn6mhwfvppiceft6tgf.streamlit.app
 
 
