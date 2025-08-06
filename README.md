@@ -29,6 +29,7 @@ WeatherProject/
 │   ├── __init__.py
 │   └── city_list.py           # Predefined Israeli cities and coordinates
 ├── .env                       # Stores OpenWeatherMap API key
+├──requirements.txt            # Python dependencies required to run the Streamlit Weather App.
 ├── Main.py                    # Main Streamlit application
 ├── README.md                  # This file
 ├── .gitignore
