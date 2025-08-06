@@ -51,7 +51,7 @@ Where:
 ## Installation & Setup
 
 1. Clone this repository
-    git clone https://github.com/yourusername/WeatherProject.git
+    git clone https://github.com/LEAGURARIE/WeatherProject.git
     cd WeatherProject
 
 2. Create and activate a virtual environment
