@@ -22,18 +22,19 @@ and a **7-day forecast** for cities in Israel using the **OpenWeatherMap API**.
 - [Plotly ](https://plotly.com/python/) for interactive charts.
 
 ## Project Structure
+```
 WeatherProject/
 ├── api/
-│   └── get_weather.py         # API calls for current & historical weather
+│   └── get_weather.py          # API calls for current & historical weather
 ├── utills/
 │   ├── __init__.py
-│   └── city_list.py           # Predefined Israeli cities and coordinates
-├── .env                       # Stores OpenWeatherMap API key
-├──requirements.txt            # Python dependencies required to run the Streamlit Weather App.
-├── Main.py                    # Main Streamlit application
-├── README.md                  # This file
-├── .gitignore
-
+│   └── city_list.py            # Predefined Israeli cities and coordinates
+├── .env                        # Stores OpenWeatherMap API key
+├── .gitignore                  # Git ignore file
+├── requirements.txt            # Python dependencies
+├── Main.py                     # Main Streamlit application
+└── README.md                   # Project documentation
+```
 ## APIs Used
 **Current & Forecast Weather – OpenWeatherMap One Call API 3.0**
 https://api.openweathermap.org/data/3.0/onecall?lat={lat}&lon={lon}&exclude={exclude}&units={units}&appid={appid}
